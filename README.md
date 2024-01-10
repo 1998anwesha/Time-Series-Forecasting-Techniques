@@ -9,4 +9,4 @@ Methods used:
 4) Hybrid linear tree regressor 
 
 Hybrid linear tree regressor - here we tried to explore a method that combines the effectiveness of non-parametric tree-based estimators with the extrapolative capabilities of linear regression. 
-Please refer to this report for a detailed analysis of each method, their drawbacks, results obtained, graphical representations and MSE values.
+Please refer to this [report](https://github.com/1998anwesha/Time-Series-Forecasting-Techniques/blob/main/Time%20Series%20Forecasting%20Techniques.pdf) for a detailed analysis of each method, their drawbacks, results obtained, graphical representations and MSE values.
